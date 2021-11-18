@@ -50,5 +50,5 @@ My name is Ibrahim, I'm a Front-end / UI Developer who enjoys conceptualizing an
   <img alt="ibrahimnergiz's LinkedIn" width="35px" src="https://img.stackshare.io/stack/20/default_0f2e330b189b8690f25d4a51e09a4027d4041f09.png" />
 </a>
 <a href="mailto:contact@ibrahimnergiz.com">
-  <img alt="mail me" width="35px" src="https://user-images.githubusercontent.com/57311842/109585261-06b49080-7ab8-11eb-95ef-5bf9d050c753.png" />
+  <img alt="mail me" width="35px" src="https://img.stackshare.io/service/3167/default_2d280843054d533c0a56c573c2e47e2cc1105a88.jpg" />
 </a>
