@@ -29,7 +29,8 @@ My name is Ibrahim, I'm a Front-end / UI Developer who enjoys conceptualizing an
   <img src='https://img.stackshare.io/service/1046/git.png' width='32' title='Git'>
   <img src='https://img.stackshare.io/service/27/sBsvBbjY.png' width='32' title='Github'>
   <img src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png' width='32' title='NPM'>
-  <img src='https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg' width='32' title='Netlify'>
+  <img src='https://img.tstackshare.io
+            /service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg' width='32' title='Netlify'>
 </p>
 
 ### IDEs...
@@ -43,10 +44,10 @@ My name is Ibrahim, I'm a Front-end / UI Developer who enjoys conceptualizing an
 ### Get in touch with me...
 
 <a href="https://twitter.com/phyesix">
-  <img alt="ibrahimnergiz | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+  <img alt="ibrahimnergiz | Twitter" width="35px" src="https://img.stackshare.io/service/5145/gaj36XL5_400x400.jpg" />
 </a>
 <a href="https://www.linkedin.com/in/phyesix/">
-  <img alt="ibrahimnergiz's LinkedIn" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  <img alt="ibrahimnergiz's LinkedIn" width="35px" src="https://img.stackshare.io/stack/20/default_0f2e330b189b8690f25d4a51e09a4027d4041f09.png" />
 </a>
 <a href="mailto:contact@ibrahimnergiz.com">
   <img alt="mail me" width="35px" src="https://user-images.githubusercontent.com/57311842/109585261-06b49080-7ab8-11eb-95ef-5bf9d050c753.png" />
