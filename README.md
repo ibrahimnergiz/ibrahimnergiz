@@ -1,4 +1,4 @@
-### Hi there <a href="https://ibrahimnergiz.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there <a href="https://ibrahimnergiz.com/"><img style="max-width:24px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"></a>
 
 ![views](https://komarev.com/ghpvc/?username=ibrahimnergiz)
 
@@ -29,8 +29,7 @@ My name is Ibrahim, I'm a Front-end / UI Developer who enjoys conceptualizing an
   <img src='https://img.stackshare.io/service/1046/git.png' width='32' title='Git'>
   <img src='https://img.stackshare.io/service/27/sBsvBbjY.png' width='32' title='Github'>
   <img src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png' width='32' title='NPM'>
-  <img src='https://img.tstackshare.io
-            /service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg' width='32' title='Netlify'>
+  <img src='https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg' width='32' title='Netlify'>
 </p>
 
 ### IDEs...
